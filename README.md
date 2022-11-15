@@ -1,6 +1,6 @@
 <h1 align="center">React-Blueprint</h1>
 <h2 align="center">
-    <img src="./react/public/static/favicon.ico" title="React Logo" alt="React Logo" style="width: 25%; height: auto;"/>
+    <img src="./public/static/favicon.ico" title="React Logo" alt="React Logo" style="width: 25%; height: auto;"/>
 </h2>
 
 <h2 align="center">Introduction</h2>
