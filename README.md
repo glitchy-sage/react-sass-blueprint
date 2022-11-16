@@ -1,4 +1,4 @@
-<h1 align="center">React-Sass-Blueprint</h1>
+<h1 align="center">React-SASS-Blueprint</h1>
 <h2 align="center">
     <img src="./public/static/favicon.ico" title="React Logo" alt="React Logo" style="width: 25%; height: auto;"/>
 </h2>
