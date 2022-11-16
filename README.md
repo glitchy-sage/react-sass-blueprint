@@ -1,11 +1,11 @@
-<h1 align="center">React-Blueprint</h1>
+<h1 align="center">React-Sass-Blueprint</h1>
 <h2 align="center">
     <img src="./public/static/favicon.ico" title="React Logo" alt="React Logo" style="width: 25%; height: auto;"/>
 </h2>
 
 <h2 align="center">Introduction</h2>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Template for creating react frontend web applications. Note: This was built using webpack manually, there may still be some tweaks to configuration required.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Template for creating react-sass frontend web applications. Note: This was built using webpack manually, there may still be some tweaks to configuration required.
 
 <h2 align="center">Instructions</h2>
 
