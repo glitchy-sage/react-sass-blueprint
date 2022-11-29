@@ -1,5 +1,6 @@
 import React, { Fragment } from 'react';
 import Icon from '../../public/static/favicon.ico';
+import './App.scss';
 
 const App = () => {
 
